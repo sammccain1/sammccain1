@@ -4,7 +4,7 @@ Hi 👋 My name is Sam McCain
 Senior @ Syracuse University School of Information Studies
 ----------------------------------------------------------
 
-Hey fellow programmers, my name is Sam McCain and I’m a senior studying Data Analytics
+Hey fellow programmers, my name is Sam McCain and I’m a senior studying Data Analytics @ Syracuse University
 
 I have a passion for sports and political science
 
