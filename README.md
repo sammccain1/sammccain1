@@ -1,4 +1,4 @@
-Hi 👋 My name is Sam McCain
+Hi I'm Sam McCain
 ===========================
 
 Senior @ Syracuse University School of Information Studies
