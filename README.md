@@ -6,7 +6,7 @@ Senior @ Syracuse University School of Information Studies
 
 Hey fellow programmers, my name is Sam McCain and I’m a senior studying Data Analytics @ Syracuse University
 
-I have a passion for sports and political science
+I have a passion for sports and political science.
 
 I love making unique data visuals, web pages, and prediction models.
 
